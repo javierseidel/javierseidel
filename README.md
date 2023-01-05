@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Software Engineer from Canada</h3>
 
 - 🔭 I'm currently based in Lethbridge Alberta for school, but I am open to moving anywhere! 
-- I'm extremely excited to make my mark on the industry
-- Currently I am working on my personal website, as well as my league of legends app - League Of Smurfs
+
+- 🔭 Currently I am working on my personal website, as well as my league of legends app - League Of Smurfs
 
 - 📫 How to reach me javierseidel96@gmail.com
 
